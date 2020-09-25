@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:attiny13ir-cache
 EELAYER 26 0
 EELAYER END
 $Descr User 8268 5827
@@ -6,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "ATtiny13A IR single-button remote"
 Date "2020-09-19"
-Rev "0.1"
+Rev "0.2"
 Comp "Filip Piórski"
 Comment1 ""
 Comment2 ""
